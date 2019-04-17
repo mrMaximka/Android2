@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="description">
+        <item name="200">Гроза с легким дождем</item>
+        <item name="201">Гроа с дождем</item>
+        <item name="202">Гроза с проливным дождем</item>
+        <item name="210">Легкая гроза</item>
+        <item name="211">Гроза</item>
+        <item name="212">Сильная гроза</item>
+        <item name="221">Сильная гроза</item>
+        <item name="230">Гроза с легкой моросью</item>
+        <item name="231">Гроза с моросью</item>
+        <item name="232">Гроза с дождем</item>
+
+        <item name="300">Моросящий дождь</item>     <!--??-->
+        <item name="301">Морось</item>
+        <item name="302">Сильная морось</item>
+        <item name="310">Сильная морось</item>
+        <item name="311">Моросящий дождь</item>
+        <item name="312">Сильный моросящий дождь</item>
+        <item name="313">Долгий  ливень</item>
+        <item name="314">Сильный ливень</item>
+        <item name="321">Мелкий ливень</item>
+
+        <item name="500">Небольшой дождь</item>
+        <item name="501">Умеренный дождь</item>
+        <item name="502">Сильный дождь</item>
+        <item name="503">Очень сильный дождь</item>
+        <item name="504">Ливень</item>
+        <item name="511">Град</item>
+        <item name="520">Интенсивный легкий ливень</item>
+        <item name="521">Легкий ливень</item>
+        <item name="522">Сильный ливень</item>
+        <item name="531">Сильный ливень</item>
+
+        <item name="600">Небольшой снег</item>
+        <item name="601">Снег</item>
+        <item name="602">Сильный снегопад</item>
+        <item name="611">Мокрый снег</item>
+        <item name="612">Небольшой снег с дождем</item>
+        <item name="613">Снег с дождем</item>
+        <item name="615">Лгкий дождь и снег</item>
+        <item name="616">Снег с дождем</item>
+        <item name="620">Небольшой снег</item>
+        <item name="621">Небольшой снег</item>
+        <item name="622">Снег</item>
+
+        <item name="701">Туман</item>
+        <item name="711">Сильный туман</item>
+        <item name="721">Легкий туман</item>
+        <item name="731">Пыль</item>
+        <item name="741">Туман</item>
+        <item name="751">Песок</item>
+        <item name="761">Пыль</item>
+        <item name="762">Вулканический пепел</item>
+        <item name="771">Шквалистый ветер</item>
+        <item name="781">Торнадо</item>
+
+        <item name="800">Ясно</item>
+        <item name="801">Небольшая облачность</item>
+        <item name="802">Небольшая облачность</item>
+        <item name="803">Облачно с прояснениями</item>
+        <item name="804">Облачно</item>
+    </string-array>
+
+    <string-array name="id_description">
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>210</item>
+        <item>211</item>
+        <item>212</item>
+        <item>221</item>
+        <item>230</item>
+        <item>231</item>
+        <item>232</item>
+
+        <item>300</item>     <!--??-->
+        <item>301</item>
+        <item>302</item>
+        <item>310</item>
+        <item>311</item>
+        <item>312</item>
+        <item>313</item>
+        <item>314</item>
+        <item>321</item>
+
+        <item>500</item>
+        <item>501</item>
+        <item>502</item>
+        <item>503</item>
+        <item>504</item>
+        <item>511</item>
+        <item>520</item>
+        <item>521</item>
+        <item>522</item>
+        <item>531</item>
+
+        <item>600</item>
+        <item>601</item>
+        <item>602</item>
+        <item>611</item>
+        <item>612</item>
+        <item>613</item>
+        <item>615</item>
+        <item>616</item>
+        <item>620</item>
+        <item>621</item>
+        <item>622</item>
+
+        <item>701</item>
+        <item>711</item>
+        <item>721</item>
+        <item>731</item>
+        <item>741</item>
+        <item>751</item>
+        <item>761</item>
+        <item>762</item>
+        <item>771</item>
+        <item>781</item>
+
+        <item>800</item>
+        <item>801</item>
+        <item>802</item>
+        <item>803</item>
+        <item>804</item>
+    </string-array>
+</resources>
