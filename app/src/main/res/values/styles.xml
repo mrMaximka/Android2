@@ -1,0 +1,67 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorGreen</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="BsbTitleStyle">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingTop">3dp</item>
+        <item name="android:paddingBottom">7dp</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="BsbCbSettingsStyle">
+        <item name="android:gravity">start</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginStart">15sp</item>
+        <item name="android:layout_marginEnd">15sp</item>
+        <item name="android:layout_marginBottom">15sp</item>
+    </style>
+
+    <style name="CardViewItemStyle">
+        <item name="cardCornerRadius">10dp</item>
+        <item name="cardUseCompatPadding">true</item>
+        <item name="cardElevation">5dp</item>
+        <item name="contentPadding">1dp</item>
+        <item name="cardMaxElevation">5dp</item>
+    </style>
+
+    <style name="CardViewTvStyle">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:tag">0</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="SecondFragmentTvTitleStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:layout_marginTop">15sp</item>
+    </style>
+
+    <style name="SecondFragmentTvMainValueStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="SecondFragmentCbItemsStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">start</item>
+        <item name="android:layout_marginStart">25sp</item>
+    </style>
+
+</resources>
