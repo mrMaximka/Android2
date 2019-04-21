@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <!--Акстивити с погодой-->
+
+    <TextView
+        android:id="@+id/second_fragment_tv_town_name"
+        style="@style/SecondFragmentTvTitleStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/second_fragment_tv_temperature"
+        style="@style/SecondFragmentTvMainValueStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/second_fragment_iv_weather_icon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="TODO" />
+
+
+    <TextView
+        android:id="@+id/second_fragment_tv_precipitation"
+        style="@style/SecondFragmentTvMainValueStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/second_fragment_tv_wind"
+        style="@style/SecondFragmentCbItemsStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/second_fragment_tv_wet"
+        style="@style/SecondFragmentCbItemsStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/second_fragment_tv_pressure"
+        style="@style/SecondFragmentCbItemsStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+</LinearLayout>
