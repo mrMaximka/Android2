@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="navigation_drawer_open">Открыть навигационную панель</string>
+    <string name="navigation_drawer_close">Закрыть навигационную панель</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+    <string name="first_fragment_tv_bsb_title">Настройки</string>
+    <string name="first_fragment_cb_wind">Ветер</string>
+    <string name="first_fragment_cb_wet">Влажность</string>
+    <string name="first_fragment_cb_pressure">Давление</string>
+    <string name="card_view_tv_item">Название города</string>
+    <string name="second_fragment_tv_pressure">Давление %d мм.рт.ст</string>
+    <string name="second_fragment_tv_wind">Ветер %d м/с</string>
+    <string name="main_activity_et_area_name">Название региона</string>
+    <string name="main_activity_btn_change_area">Сменить регион</string>
+    <string name="main_activity_btn_load_area">Загрузить регион</string>
+    <string name="main_activity_tv_your_area">Ваш регион</string>
+    <string name="json_city_not_found">Город не найден</string>
+    <string name="service_message">Текущая температура: %f</string>
+    <string name="second_fragment_tv_wet">Влажность %d %%</string>
+    <string name="tv_celcium">℃</string>
+
+    <string-array name="Cities">    <!--Массив городов на RecyclerView-->
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Мурманск</item>
+        <item>Екатеринбург</item>
+        <item>Новосибирск</item>
+        <item>Самара</item>
+    </string-array>
+
+    <string-array name="sky">
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Дождь</item>
+        <item>Снег</item>
+    </string-array>
+</resources>
