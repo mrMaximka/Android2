@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_tv_bsb_title">Settings</string>
+    <string name="first_fragment_cb_wind">Wind</string>
+    <string name="first_fragment_cb_wet">Humidity</string>
+    <string name="first_fragment_cb_pressure">Pressure</string>
+    <string name="card_view_tv_item">City Name</string>
+    <string name="second_fragment_tv_pressure">Pressure %d mmHg</string>
+    <string name="second_fragment_tv_wind">Wind %d m/s</string>
+    <string name="main_activity_et_area_name">Area name</string>
+    <string name="main_activity_btn_change_area">Change area</string>
+    <string name="main_activity_btn_load_area">Load area</string>
+    <string name="main_activity_tv_your_area">Your area</string>
+    <string name="json_city_not_found">City not found</string>
+    <string name="service_message">Current temperature: %f</string>
+    <string name="second_fragment_tv_wet">Humidity %d %%</string>
+    <string name="tv_celcium">℃</string>
+
+    <string-array name="Cities">    <!--Массив городов на RecyclerView-->
+        <item>Moscow</item>
+        <item>Saint-Petersburg</item>
+        <item>Murmansk</item>
+        <item>Yekaterinburg</item>
+        <item>Novosibirsk</item>
+        <item>Samara</item>
+    </string-array>
+
+    <string-array name="sky">
+        <item>Sunny</item>
+        <item>Cloudy</item>
+        <item>Rain</item>
+        <item>Snow</item>
+    </string-array>
+</resources>
