@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="description">
+        <item name="200">thunderstorm with light rain</item>
+        <item name="201">thunderstorm with rain</item>
+        <item name="202">thunderstorm with heavy rain</item>
+        <item name="210">light thunderstorm</item>
+        <item name="211">thunderstorm</item>
+        <item name="212">heavy thunderstorm</item>
+        <item name="221">ragged thunderstorm</item>
+        <item name="230">thunderstorm with light drizzle</item>
+        <item name="231">thunderstorm with drizzle</item>
+        <item name="232">thunderstorm with heavy drizzle</item>
+
+        <item name="300">light intensity drizzle</item>     <!--??-->
+        <item name="301">drizzle</item>
+        <item name="302">heavy intensity drizzle</item>
+        <item name="310">light intensity drizzle rain</item>
+        <item name="311">drizzle rain</item>
+        <item name="312">heavy intensity drizzle rain</item>
+        <item name="313">shower rain and drizzle</item>
+        <item name="314">heavy shower rain and drizzle</item>
+        <item name="321">shower drizzle</item>
+
+        <item name="500">light rain</item>
+        <item name="501">moderate rain</item>
+        <item name="502">heavy intensity rain</item>
+        <item name="503">very heavy rain</item>
+        <item name="504">extreme rain</item>
+        <item name="511">freezing rain</item>
+        <item name="520">light intensity shower rain</item>
+        <item name="521">shower rain</item>
+        <item name="522">heavy intensity shower rain</item>
+        <item name="531">ragged shower rain</item>
+
+        <item name="600">light snow</item>
+        <item name="601">Snow</item>
+        <item name="602">Heavy snow</item>
+        <item name="611">Sleet</item>
+        <item name="612">Light shower sleet</item>
+        <item name="613">Shower sleet</item>
+        <item name="615">Light rain and snow</item>
+        <item name="616">Rain and snow</item>
+        <item name="620">Light shower snow</item>
+        <item name="621">Shower snow</item>
+        <item name="622">Heavy shower snow</item>
+
+        <item name="701">mist</item>
+        <item name="711">Smoke</item>
+        <item name="721">Haze</item>
+        <item name="731">sand/dust whirls</item>
+        <item name="741">fog</item>
+        <item name="751">sand</item>
+        <item name="761">dust</item>
+        <item name="762">volcanic ash</item>
+        <item name="771">squalls</item>
+        <item name="781">tornado</item>
+
+        <item name="800">clear sky</item>
+        <item name="801">few clouds</item>
+        <item name="802">scattered clouds</item>
+        <item name="803">broken clouds</item>
+        <item name="804">overcast clouds</item>
+    </string-array>
+
+    <string-array name="id_description">
+        <item>200</item>
+        <item>201</item>
+        <item>202</item>
+        <item>210</item>
+        <item>211</item>
+        <item>212</item>
+        <item>221</item>
+        <item>230</item>
+        <item>231</item>
+        <item>232</item>
+
+        <item>300</item>     <!--??-->
+        <item>301</item>
+        <item>302</item>
+        <item>310</item>
+        <item>311</item>
+        <item>312</item>
+        <item>313</item>
+        <item>314</item>
+        <item>321</item>
+
+        <item>500</item>
+        <item>501</item>
+        <item>502</item>
+        <item>503</item>
+        <item>504</item>
+        <item>511</item>
+        <item>520</item>
+        <item>521</item>
+        <item>522</item>
+        <item>531</item>
+
+        <item>600</item>
+        <item>601</item>
+        <item>602</item>
+        <item>611</item>
+        <item>612</item>
+        <item>613</item>
+        <item>615</item>
+        <item>616</item>
+        <item>620</item>
+        <item>621</item>
+        <item>622</item>
+
+        <item>701</item>
+        <item>711</item>
+        <item>721</item>
+        <item>731</item>
+        <item>741</item>
+        <item>751</item>
+        <item>761</item>
+        <item>762</item>
+        <item>771</item>
+        <item>781</item>
+
+        <item>800</item>
+        <item>801</item>
+        <item>802</item>
+        <item>803</item>
+        <item>804</item>
+    </string-array>
+</resources>

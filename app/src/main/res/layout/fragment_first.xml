@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00ffffff">
+
+    <!--Список городов в RecyclerView-->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </FrameLayout>
+
+    <!--Настроки отображения погоды через BottomSheetBehavior-->
+    <LinearLayout
+        android:id="@+id/first_fragment_bsb_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorGray"
+        android:orientation="vertical"
+        app:layout_behavior="android.support.design.widget.BottomSheetBehavior">
+
+        <TextView
+            android:id="@+id/first_fragment_bsb_tv_title"
+            style="@style/BsbTitleStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/first_fragment_tv_bsb_title" />
+
+        <CheckBox
+            android:id="@+id/first_fragment_cb_wind"
+            style="@style/BsbCbSettingsStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/first_fragment_cb_wind" />
+
+        <CheckBox
+            android:id="@+id/first_fragment_cb_wet"
+            style="@style/BsbCbSettingsStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/first_fragment_cb_wet" />
+
+        <CheckBox
+            android:id="@+id/first_fragment_cb_pressure"
+            style="@style/BsbCbSettingsStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/first_fragment_cb_pressure" />
+
+    </LinearLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>
